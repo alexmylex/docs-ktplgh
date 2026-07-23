@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-nfsv63.salamcuan.sbs/sitemap.xml
